@@ -1,0 +1,11 @@
+C:\Users\starf\Desktop\oop assign 5\bin\Debug\netcoreapp3.0\oop assign 5.exe
+C:\Users\starf\Desktop\oop assign 5\bin\Debug\netcoreapp3.0\oop assign 5.deps.json
+C:\Users\starf\Desktop\oop assign 5\bin\Debug\netcoreapp3.0\oop assign 5.runtimeconfig.json
+C:\Users\starf\Desktop\oop assign 5\bin\Debug\netcoreapp3.0\oop assign 5.runtimeconfig.dev.json
+C:\Users\starf\Desktop\oop assign 5\bin\Debug\netcoreapp3.0\oop assign 5.dll
+C:\Users\starf\Desktop\oop assign 5\bin\Debug\netcoreapp3.0\oop assign 5.pdb
+C:\Users\starf\Desktop\oop assign 5\obj\Debug\netcoreapp3.0\oop assign 5.csprojAssemblyReference.cache
+C:\Users\starf\Desktop\oop assign 5\obj\Debug\netcoreapp3.0\oop assign 5.AssemblyInfoInputs.cache
+C:\Users\starf\Desktop\oop assign 5\obj\Debug\netcoreapp3.0\oop assign 5.AssemblyInfo.cs
+C:\Users\starf\Desktop\oop assign 5\obj\Debug\netcoreapp3.0\oop assign 5.dll
+C:\Users\starf\Desktop\oop assign 5\obj\Debug\netcoreapp3.0\oop assign 5.pdb
