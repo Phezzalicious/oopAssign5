@@ -9,7 +9,7 @@ namespace oop_assign_5
         string custName;
         string accNum;
 //100,"Chase","John Doe","111111","01/01/2019"
-        public Check (float amount, string b, string cname, string acnum, string date)
+        public Check (float amount, string b, string cname, string acnum, string date):base(amount,date)
         {
             Bank = b;
             custName = cname;

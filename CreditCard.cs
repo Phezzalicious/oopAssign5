@@ -11,7 +11,7 @@ namespace oop_assign_5
         string CType;
 
 //100,"1234-5678-9012-3456","Visa","01/01/2022","John Doe","01/01/2019"
-        public CreditCard (float amount, string CCNum, string CType, string expDate, string CHolderName, string otherDate)
+        public CreditCard (float amount, string CCNum, string CType, string expDate, string CHolderName, string paymentDate):base(amount,paymentDate)
         {
             this.CCNum = CCNum;
             this.expDate = expDate;

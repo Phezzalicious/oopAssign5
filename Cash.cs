@@ -8,10 +8,10 @@ namespace oop_assign_5
         double tenderdCash;
         double change;
 
-        public Cash (double t, string date, double c)
+        public Cash (double t, string date, double c):base(t,date)
         {
-            tenderdCash = t;
-            change = c;
+            tenderdCash = c;
+            
         }
 
         public double calChange()

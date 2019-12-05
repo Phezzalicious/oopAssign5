@@ -7,6 +7,11 @@ namespace oop_assign_5
     {
         private double amount; 
         private string paymentDate;
+        public Payment(double amount, string paymentDate){
+            this.amount = amount;
+            this.paymentDate = paymentDate;
+
+        }
         public double getAmount(){
             return amount;
         }
