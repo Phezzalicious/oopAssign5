@@ -1,3 +1,7 @@
+//Phelps Merrell
+//Haley Smith
+//Mekkala Bourapa
+//CIDM 4360
 using System;
 using System.Collections.Generic;
 

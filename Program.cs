@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Phelps Merrell
+//Haley Smith
+//Mekkala Bourapa
+//CIDM 4360
+using System;
 
 namespace oop_assign_5
 {

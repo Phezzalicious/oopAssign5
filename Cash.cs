@@ -1,3 +1,7 @@
+//Phelps Merrell
+//Haley Smith
+//Mekkala Bourapa
+//CIDM 4360
 using System;
 using System.Collections.Generic;
 
@@ -28,10 +32,8 @@ namespace oop_assign_5
             return "Cash";
         }
         public override bool verify(){
-            Console.WriteLine("Credit Card Verified");
-
+            Console.WriteLine("Payment Verified...");
             return true;
-
         }
     }
 }
